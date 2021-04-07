@@ -9,7 +9,7 @@ A GAN (Generative Adversarial Network) can currently create a very good speech v
 ## Research possibilities
  - Basic speech recognition tool
  - Text/Speech synchronisation tool (SMIL generator?)
- - Prosody generator based on
+ - Prosody generator based on:
    - grammar guessing from common words (the, at, in, a, and, or ...) 
    - position in document (start/end of paragraph, start/end of document)
    - common rhetorical patterns (repetions of words or phrases, alliteration etc)
