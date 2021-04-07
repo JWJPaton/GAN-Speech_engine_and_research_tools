@@ -8,7 +8,7 @@ A GAN (Generative Adversarial Network) can currently create a very good speech v
 
 [Librivox for other voices and prosody learning](https://librivox.org/)
 
-+Any Voice data that is now out of copyright (Ethically this should be used for prosody learning rather than anything that would enable mimicing of the voice. They have not consented to have their voice stolen). 
++Any Voice data that is now out of copyright (Ethically this should be used for prosody learning rather than anything that would enable mimicking of the voice. They have not consented to have their voice stolen). 
 
 ## Research possibilities
  - Basic speech recognition tool
