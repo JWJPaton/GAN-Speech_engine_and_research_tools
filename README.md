@@ -3,8 +3,12 @@ A GAN (Generative Adversarial Network) can currently create a very good speech v
 ## To do
  - Identify GAN-TTS projects with a suitable license to allow creation of a license-free voice
 
-## Dataset
-*add link to LJ dataset*
+## Datasets
+[The "LJ Speech Dataset"](https://keithito.com/LJ-Speech-Dataset/)
+
+[Librivox for other voices and prosody learning](https://librivox.org/)
+
++Any Voice data that is now out of copyright (Ethically this should be used for prosody learning rather than anything that would enable mimicing of the voice. They have not consented to have their voice stolen). 
 
 ## Research possibilities
  - Basic speech recognition tool
@@ -16,3 +20,7 @@ A GAN (Generative Adversarial Network) can currently create a very good speech v
 - Emphasis recognition/generation for better natural language voice interfaces.
  - What is the effect of using IPA-phoneme generation rules for different languages? Does that produce accents? (anecdotal evidence says yes)
  - Accent generator/guesser (Does it help speech understanding/worldview for children to hear many accents? Should speech generators assign random (gentle) accents?)
+ - Noise reduction 
+   1. Apply speech recognition on audio, 
+   2. generate probabilities of frequencies expecting for that text, 
+   3. attenuate frequencies that don't meet a probability threshold 
