@@ -1,7 +1,8 @@
 # GAN-Speech_engine_and_research_tools
 A GAN (Generative Adversarial Network) can currently create a very good speech vocoder using linked voice and text data. This voice and text data exists license-free on the web. This means the knowledge, data and tools exist to create a license free Speech Engine and to enable further work.
 ## To do
- - Investigate the feasibility of using Tensorflow.js 
+ - Investigate the feasibility of using Tensorflow.js for the GAN
+ - Investigate the feasibility of using [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API#web_audio_api_interfaces) for audio input and output
 
 ## Datasets
 [The "LJ Speech Dataset"](https://keithito.com/LJ-Speech-Dataset/)
